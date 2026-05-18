@@ -1,6 +1,6 @@
 # tinnitus-cognitive-genetics
 
-This is the repository for the code used to perform analysis and generate figures for the following paper titled "Loss of function and structural variants in the PRKRA synaptic gene link mild cognitive impairment and tinnitus".
+This is the repository for the code used to perform analysis and generate figures for the following paper titled $Loss of function and structural variants in the PRKRA synaptic gene link mild cognitive impairment and tinnitus$.
 
 ### Citation
 
